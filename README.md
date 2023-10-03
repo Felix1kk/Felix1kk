@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Felix Nwokekeh
-- 🌱 I am a Data Scientist skilled in Python , SQl, R , Tableau , Excell
+- 🌱 I am a Data Scientist skilled in Python , SQL, R , Tableau , Excel
 - With hands on knowledge on Machine Learning,Neural Networks, CNN, Deep Learning , NLP
 - Solid understanding of Statistics
 - nwokekehf@gmail.com
